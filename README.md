@@ -8,7 +8,7 @@ it works on ARP to scan network
 
 # Installation
 
-git clone https://github.com/huntabhay7/pythonportscanner/blob/main/Mine%20Project/portscanner-main/scanner.py
+git clone   https://github.com/huntabhay7/pythonportscanner/blob/main/scanner.py
 
 cd portscanner
 
